@@ -1,0 +1,18 @@
+body {background-color: #e5e8e8;}
+h1,h2   {background-color: purple;color: white;}
+p    {color: purple;}
+footer {color: purple;}
+blockquote {color:purple}
+img {border: 3px solid purple; }
+table, 		
+th,
+td {border: 2px solid purple;}
+
+div.nan 
+{
+    background-color:#f5eef8;
+    color:darkblue;
+	width:100%;
+    margin:20px;
+    padding:20px;
+}
